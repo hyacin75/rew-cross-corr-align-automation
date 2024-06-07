@@ -3,7 +3,9 @@ This is a very simple and dirty python script to automate the worst part of [Sup
 It requires that your measurements be saved such that "-(channel)" appears in the name, for example, I name my channels -
 
 pos1-TFL
+
 pos2-C
+
 pos3-FL
 
 etc.
